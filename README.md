@@ -1,7 +1,7 @@
 # Metodologia_Gustavo_Borges
 ## #####################################################################
 ## 																	  ##
-# Automação WEB - Metodologia Gustavo Borges
+# Automação WEB - Site Magazine Luiza
 # 🍒 Sumário
 
 > 1. [Objetivo](#topico1)
@@ -20,7 +20,7 @@
 # 🎯 1. Objetivo
 
 
-Validar de forma automática o funcionamento e a qualidade do sistema WEB metodologia Gustavo Borges  utilizando Robot Framework.
+Validar de forma automática o funcionamento e a qualidade do sistema WEB com fins de estudo do site Magazine Luiza  utilizando Robot Framework.
 
 <a id="topico2"></a>
 # 📋 2. Pré-requisitos
