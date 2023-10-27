@@ -1,0 +1,10 @@
+venv/*
+Result/*
+__pycache__
+*.pyc
+*.log
+*.png
+*.html
+*.xml
+*.svg
+.vscode/
